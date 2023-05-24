@@ -1,8 +1,9 @@
 ## Warzone-Project 2023
 This is a direct copy of https://github.com/ethanedits/Warzone-Project, but compiled into an application and certain outdated scripts removed. Added some basic protection to bypass anticheat. Includes ESP, Aimbot, Bone ESP, and Menu.
 ## Installation
-* Download the app from the Download folder.
-* Run the application make sure there is no errors
+* Download and unzip file
+* Run which app your os is
+* Make sure there is no errors
 * If anything missing or error take what is missing from the link above
 * Enjoy
 ## Updates
